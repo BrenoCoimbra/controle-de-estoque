@@ -5,7 +5,6 @@
 $this->title = 'My Yii Application';
 ?>
 <div class="site-index">
-<h1>Modificção git</h1>
     <div class="jumbotron">
         <?php if (!Yii::$app->user->isGuest): ?>
             <h1>Controle de estoque</h1>
@@ -16,5 +15,4 @@ $this->title = 'My Yii Application';
             <p><a class="btn btn-sm btn-success" href="/site/login">Login</a></p>
         <?php endif; ?>
     </div>
-
 </div>
