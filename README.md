@@ -1,5 +1,5 @@
 # controle-de-estoque
-Controle de estoque gesso águia
+Controle de estoque
 
 1 - composer update
 
